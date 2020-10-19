@@ -1,0 +1,9 @@
+form：https://github.com/GantMan/nsfw_model
+
+tf2.0
+
+操作：
+下载299.h5模型文件
+运行
+
+准确率较高：90%-93%
